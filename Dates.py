@@ -11,7 +11,6 @@
 #Functions to use with a date
 current_date = datetime.now()
 print ('Today is: ' + str(current_date))
-
 today = datetime.now()
 
 
